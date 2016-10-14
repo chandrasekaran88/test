@@ -1,0 +1,513 @@
+#EXTM3U
+
+ #EXTINF:-1,------ USA ------
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2768.ts
+#EXTINF:-1,USA: Bein Sports HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/4644.ts
+#EXTINF:-1,USA: Bein Sports N HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7419.ts
+#EXTINF:-1,USA: TSN 1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2299.ts
+#EXTINF:-1,USA: TSN 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2298.ts
+#EXTINF:-1,USA: TSN 3
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2297.ts
+#EXTINF:-1,USA: TSN 4
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2296.ts
+#EXTINF:-1,USA: TSN 5
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2295.ts
+#EXTINF:-1,USA: Astro Supersport 1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3876.ts
+#EXTINF:-1,USA: Astro Supersport 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3877.ts
+#EXTINF:-1,USA: Astro Supersport 3
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3878.ts
+#EXTINF:-1,USA: Astro Supersport 4
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3879.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6213.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6214.ts
+#EXTINF:-1,USA: FOX SPORTS HD ( ASIA )
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8215.ts
+#EXTINF:-1,VIP: ELEVEN PLUS
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10303.ts
+#EXTINF:-1,USA: SportsNet World
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7824.ts
+#EXTINF:-1,USA: SportNet 360
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8299.ts
+#EXTINF:-1,USA: Sportnet East
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7368.ts
+#EXTINF:-1,USA: Sportnet West
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8155.ts
+#EXTINF:-1,USA: Sportnet One
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6813.ts
+#EXTINF:-1,USA: Sportnet World
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8175.ts
+#EXTINF:-1,USA: Sportnet Pacific
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7459.ts
+#EXTINF:-1,USA: Sportnet Ontario
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7458.ts
+#EXTINF:-1,USA: ESPN HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8707.ts
+#EXTINF:-1,USA: ESPN 1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8470.ts
+#EXTINF:-1,USA: ESPN 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8469.ts
+#EXTINF:-1,USA: NBA NETWORK HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8471.ts
+#EXTINF:-1,USA: USA Network
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6808.ts
+#EXTINF:-1,USA: NHL Network
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7418.ts
+#EXTINF:-1,USA: NFL
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6812.ts
+#EXTINF:-1,USA: NBC GOLF HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6829.ts
+#EXTINF:-1,USA: US WWE HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/4270.ts
+#EXTINF:-1,USA: PAG HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7416.ts
+#EXTINF:-1,USA: DIY Network HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7366.ts
+#EXTINF:-1,USA: NBA US HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/4272.ts
+#EXTINF:-1,USA: NBC SPORT
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6817.ts
+#EXTINF:-1,USA: UFC Fight Night Live US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10689.ts
+#EXTINF:-1,USA: UFC Fight Night 88 US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10688.ts
+#EXTINF:-1,USA: UFC Fight Night 87 US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10687.ts
+#EXTINF:-1,USA: UFC 199 US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10685.ts
+#EXTINF:-1,USA: UFC 199 Early Prelims US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10686.ts
+#EXTINF:-1,USA: Fight Sport
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9130.ts
+#EXTINF:-1,USA: Food Network
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7434.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5917.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5907.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5906.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5898.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5913.ts
+#EXTINF:-1,USA: AFN PRIME ATLANTIC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5912.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5908.ts
+#EXTINF:-1,USA: AFN NEWS
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5901.ts
+#EXTINF:-1,USA: SyFy HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5791.ts
+#EXTINF:-1,USA: FX HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9674.ts
+#EXTINF:-1,USA: FXX HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9673.ts
+#EXTINF:-1,USA: CBS HD USA
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9668.ts
+#EXTINF:-1,USA: ABC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8068.ts
+#EXTINF:-1,USA: ABC ( PACK )
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8090.ts
+#EXTINF:-1,USA: NBC HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9669.ts
+#EXTINF:-1,USA: NBC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10215.ts
+#EXTINF:-1,USA: HALLMARK
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6827.ts
+#EXTINF:-1,USA: AMC HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9676.ts
+#EXTINF:-1,USA: Showtime HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6623.ts
+#EXTINF:-1,USA: SHOWTIME HD 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8866.ts
+#EXTINF:-1,USA: SHOWTIME WEST
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9670.ts
+#EXTINF:-1,USA: SHOWTIME SHOWCASE
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9671.ts
+#EXTINF:-1,USA: HBO
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6826.ts
+#EXTINF:-1,USA: HBO 2 HD US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7758.ts
+#EXTINF:-1,USA: HBO plus HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6825.ts
+#EXTINF:-1,USA: HBO East
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8069.ts
+#EXTINF:-1,USA: HBO Comedy
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7426.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6830.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8871.ts
+#EXTINF:-1,USA: Cinemax ActionMax
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7438.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8868.ts
+#EXTINF:-1,USA: Cinemax MoreMax
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7643.ts
+#EXTINF:-1,USA: Cinemax East
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7462.ts
+#EXTINF:-1,USA: CINEMAX EAST HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8867.ts
+#EXTINF:-1,USA: CINEMAX 5 STAR MAX  HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8870.ts
+#EXTINF:-1,USA: Starz West US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10684.ts
+#EXTINF:-1,USA: Starz Kids US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10683.ts
+#EXTINF:-1,USA: Starz In Black US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10682.ts
+#EXTINF:-1,USA: Starz Encore US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10681.ts
+#EXTINF:-1,USA: Starz Edge US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10680.ts
+#EXTINF:-1,USA: Starz East US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10679.ts
+#EXTINF:-1,USA: Starz Comedy US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10678.ts
+#EXTINF:-1,USA: Starz Cinema US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10677.ts
+#EXTINF:-1,USA: Bravo
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6807.ts
+#EXTINF:-1,USA: FOX 43
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10239.ts
+#EXTINF:-1,USA: CW Central
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10238.ts
+#EXTINF:-1,USA: MBL HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10140.ts
+#EXTINF:-1,USA: CBCEN
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10214.ts
+#EXTINF:-1,USA: A&E
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10726.ts
+#EXTINF:-1,USA: TWiT
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7424.ts
+#EXTINF:-1,USA: Fox News
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6831.ts
+#EXTINF:-1,USA: HIFI
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6810.ts
+#EXTINF:-1,USA: Tbs HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6809.ts
+#EXTINF:-1,USA: SPACE
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6806.ts
+#EXTINF:-1,USA: byu tv
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8157.ts
+#EXTINF:-1,USA: BLOOMBERG
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7903.ts
+#EXTINF:-1,USA: CNN US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6814.ts
+#EXTINF:-1,USA: CNBC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3860.ts
+#EXTINF:-1,USA: World Fashion Channel
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7443.ts
+#EXTINF:-1,USA: WGN
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7425.ts
+#EXTINF:-1,USA: Poker Central
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7439.ts
+#EXTINF:-1,USA: NASA TV
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7367.ts
+#EXTINF:-1,USA: CNBC HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7414.ts
+#EXTINF:-1,USA: CBSN US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7820.ts
+#EXTINF:-1,USA: PAG
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7413.ts
+#EXTINF:-1,USA: USA Network HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9659.ts
+#EXTINF:-1,USA: VH1 Classic
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9675.ts
+#EXTINF:-1,USA: CN HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8869.ts
+#EXTINF:-1,USA: Nick HD US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6815.ts
+#EXTINF:-1,CA: TVS Sports
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10240.ts
+#EXTINF:-1,CA: TeleQub
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10241.ts
+#EXTINF:-1,CA: Supercrun1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10242.ts
+#EXTINF:-1,CA: SERIES
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10244.ts
+#EXTINF:-1,CA: RDI
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10243.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5130.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5129.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5128.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5127.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5126.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5125.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5124.ts
+ 
+ 
+
+    0 people like thisAmerica, USA
+
+RAW Paste Data
+ #EXTINF:-1,------ USA ------
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2768.ts
+#EXTINF:-1,USA: Bein Sports HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/4644.ts
+#EXTINF:-1,USA: Bein Sports N HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7419.ts
+#EXTINF:-1,USA: TSN 1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2299.ts
+#EXTINF:-1,USA: TSN 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2298.ts
+#EXTINF:-1,USA: TSN 3
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2297.ts
+#EXTINF:-1,USA: TSN 4
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2296.ts
+#EXTINF:-1,USA: TSN 5
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/2295.ts
+#EXTINF:-1,USA: Astro Supersport 1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3876.ts
+#EXTINF:-1,USA: Astro Supersport 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3877.ts
+#EXTINF:-1,USA: Astro Supersport 3
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3878.ts
+#EXTINF:-1,USA: Astro Supersport 4
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3879.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6213.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6214.ts
+#EXTINF:-1,USA: FOX SPORTS HD ( ASIA )
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8215.ts
+#EXTINF:-1,VIP: ELEVEN PLUS
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10303.ts
+#EXTINF:-1,USA: SportsNet World
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7824.ts
+#EXTINF:-1,USA: SportNet 360
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8299.ts
+#EXTINF:-1,USA: Sportnet East
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7368.ts
+#EXTINF:-1,USA: Sportnet West
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8155.ts
+#EXTINF:-1,USA: Sportnet One
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6813.ts
+#EXTINF:-1,USA: Sportnet World
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8175.ts
+#EXTINF:-1,USA: Sportnet Pacific
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7459.ts
+#EXTINF:-1,USA: Sportnet Ontario
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7458.ts
+#EXTINF:-1,USA: ESPN HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8707.ts
+#EXTINF:-1,USA: ESPN 1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8470.ts
+#EXTINF:-1,USA: ESPN 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8469.ts
+#EXTINF:-1,USA: NBA NETWORK HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8471.ts
+#EXTINF:-1,USA: USA Network
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6808.ts
+#EXTINF:-1,USA: NHL Network
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7418.ts
+#EXTINF:-1,USA: NFL
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6812.ts
+#EXTINF:-1,USA: NBC GOLF HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6829.ts
+#EXTINF:-1,USA: US WWE HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/4270.ts
+#EXTINF:-1,USA: PAG HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7416.ts
+#EXTINF:-1,USA: DIY Network HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7366.ts
+#EXTINF:-1,USA: NBA US HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/4272.ts
+#EXTINF:-1,USA: NBC SPORT
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6817.ts
+#EXTINF:-1,USA: UFC Fight Night Live US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10689.ts
+#EXTINF:-1,USA: UFC Fight Night 88 US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10688.ts
+#EXTINF:-1,USA: UFC Fight Night 87 US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10687.ts
+#EXTINF:-1,USA: UFC 199 US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10685.ts
+#EXTINF:-1,USA: UFC 199 Early Prelims US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10686.ts
+#EXTINF:-1,USA: Fight Sport
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9130.ts
+#EXTINF:-1,USA: Food Network
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7434.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5917.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5907.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5906.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5898.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5913.ts
+#EXTINF:-1,USA: AFN PRIME ATLANTIC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5912.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5908.ts
+#EXTINF:-1,USA: AFN NEWS
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5901.ts
+#EXTINF:-1,USA: SyFy HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5791.ts
+#EXTINF:-1,USA: FX HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9674.ts
+#EXTINF:-1,USA: FXX HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9673.ts
+#EXTINF:-1,USA: CBS HD USA
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9668.ts
+#EXTINF:-1,USA: ABC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8068.ts
+#EXTINF:-1,USA: ABC ( PACK )
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8090.ts
+#EXTINF:-1,USA: NBC HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9669.ts
+#EXTINF:-1,USA: NBC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10215.ts
+#EXTINF:-1,USA: HALLMARK
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6827.ts
+#EXTINF:-1,USA: AMC HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9676.ts
+#EXTINF:-1,USA: Showtime HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6623.ts
+#EXTINF:-1,USA: SHOWTIME HD 2
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8866.ts
+#EXTINF:-1,USA: SHOWTIME WEST
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9670.ts
+#EXTINF:-1,USA: SHOWTIME SHOWCASE
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9671.ts
+#EXTINF:-1,USA: HBO
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6826.ts
+#EXTINF:-1,USA: HBO 2 HD US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7758.ts
+#EXTINF:-1,USA: HBO plus HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6825.ts
+#EXTINF:-1,USA: HBO East
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8069.ts
+#EXTINF:-1,USA: HBO Comedy
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7426.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6830.ts
+#EXTINF:-1,USA: Comedy Central HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8871.ts
+#EXTINF:-1,USA: Cinemax ActionMax
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7438.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8868.ts
+#EXTINF:-1,USA: Cinemax MoreMax
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7643.ts
+#EXTINF:-1,USA: Cinemax East
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7462.ts
+#EXTINF:-1,USA: CINEMAX EAST HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8867.ts
+#EXTINF:-1,USA: CINEMAX 5 STAR MAX  HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8870.ts
+#EXTINF:-1,USA: Starz West US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10684.ts
+#EXTINF:-1,USA: Starz Kids US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10683.ts
+#EXTINF:-1,USA: Starz In Black US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10682.ts
+#EXTINF:-1,USA: Starz Encore US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10681.ts
+#EXTINF:-1,USA: Starz Edge US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10680.ts
+#EXTINF:-1,USA: Starz East US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10679.ts
+#EXTINF:-1,USA: Starz Comedy US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10678.ts
+#EXTINF:-1,USA: Starz Cinema US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10677.ts
+#EXTINF:-1,USA: Bravo
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6807.ts
+#EXTINF:-1,USA: FOX 43
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10239.ts
+#EXTINF:-1,USA: CW Central
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10238.ts
+#EXTINF:-1,USA: MBL HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10140.ts
+#EXTINF:-1,USA: CBCEN
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10214.ts
+#EXTINF:-1,USA: A&E
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10726.ts
+#EXTINF:-1,USA: TWiT
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7424.ts
+#EXTINF:-1,USA: Fox News
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6831.ts
+#EXTINF:-1,USA: HIFI
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6810.ts
+#EXTINF:-1,USA: Tbs HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6809.ts
+#EXTINF:-1,USA: SPACE
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6806.ts
+#EXTINF:-1,USA: byu tv
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8157.ts
+#EXTINF:-1,USA: BLOOMBERG
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7903.ts
+#EXTINF:-1,USA: CNN US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6814.ts
+#EXTINF:-1,USA: CNBC
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/3860.ts
+#EXTINF:-1,USA: World Fashion Channel
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7443.ts
+#EXTINF:-1,USA: WGN
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7425.ts
+#EXTINF:-1,USA: Poker Central
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7439.ts
+#EXTINF:-1,USA: NASA TV
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7367.ts
+#EXTINF:-1,USA: CNBC HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7414.ts
+#EXTINF:-1,USA: CBSN US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7820.ts
+#EXTINF:-1,USA: PAG
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/7413.ts
+#EXTINF:-1,USA: USA Network HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9659.ts
+#EXTINF:-1,USA: VH1 Classic
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/9675.ts
+#EXTINF:-1,USA: CN HD
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/8869.ts
+#EXTINF:-1,USA: Nick HD US
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/6815.ts
+#EXTINF:-1,CA: TVS Sports
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10240.ts
+#EXTINF:-1,CA: TeleQub
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10241.ts
+#EXTINF:-1,CA: Supercrun1
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10242.ts
+#EXTINF:-1,CA: SERIES
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10244.ts
+#EXTINF:-1,CA: RDI
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/10243.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5130.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5129.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5128.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5127.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5126.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5125.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/kristjan/kristjan/5124.ts
+
+
+0 people like thisAmerica, USA
+create new paste  /  dealsnew!  /  api  /  trends  /  syntax languages  /  faq  /  tools  /  privacy  /  cookies  /  contact  /  dmca  /  advertise on pastebin  /  scraping  /  go
+Site design & logo © 2016 Pastebin; user contributions (pastes) licensed under cc by-sa 3.0 -- Dedicated Server Hosting by Steadfast
